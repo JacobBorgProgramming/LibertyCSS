@@ -1,0 +1,1000 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+/*btn*/
+.btn{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #cecece;
+    border-radius: 5px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #cecece;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+
+
+
+
+.btn-red{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #cc0000;
+    border-radius: 5px;
+    color: #cc0000;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-red:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #cc0000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #cc0000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-red:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #ff0000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #ff0000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+.btn-green{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #00cc66;
+    border-radius: 5px;
+    color: #00cc66;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-green:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #00cc66;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #00cc66;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-green:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #339966;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #339966;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+.btn-blue{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #0066cc;
+    border-radius: 5px;
+    color: #0066cc;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-blue:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #0066cc;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #0066cc;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-blue:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #003399;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #003399;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+.btn-yellow{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    color: #1a1a1a;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-yellow:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-yellow:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+
+.btn-dark{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    color: #1a1a1a;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-dark:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-dark:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+.btn-purple{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #99035e;
+    border-radius: 5px;
+    color: #99035e;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-purple:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #99035e;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #99035e;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-purple:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/**/
+
+
+
+.btn-red-dark{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #cc0000;
+    border-radius: 5px;
+    color: #cc0000;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-red-dark:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #cc0000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #cc0000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-red-dark:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #ff0000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #ff0000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+.btn-green-dark{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #00cc66;
+    border-radius: 5px;
+    color: #00cc66;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-green-dark:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #00cc66;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #00cc66;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-green-dark:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #339966;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #339966;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+.btn-blue-dark{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #0066cc;
+    border-radius: 5px;
+    color: #0066cc;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-blue-dark:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #0066cc;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #0066cc;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-blue-dark:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #003399;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #003399;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+.btn-yellow-dark{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    color: #ffcd22;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-yellow-dark:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #ffcd22;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-yellow-dark:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #ffcd22;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+
+.btn-dark-dark{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-dark-dark:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #fff;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-dark-dark:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #fff;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+.btn-purple-dark{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #99035e;
+    border-radius: 5px;
+    color: #99035e;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-purple-dark:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #99035e;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #99035e;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-purple-dark:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*btn-solid*/
+.btn-solid{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #cecece;
+    border-style: solid;
+    border-color: #cecece;
+    color: #1a1a1a;
+    border-radius: 5px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-solid:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #cecece;
+    color: #1a1a1a;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-solid:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    color: #1a1a1a;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+
+
+
+
+.btn-red-solid{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #cc0000;
+    border-style: solid;
+    border-color: #cc0000;
+    border-radius: 5px;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-red-solid:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #cc0000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #cc0000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-red-solid:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #ff0000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #ff0000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+.btn-green-solid{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #00cc66;
+    border-style: solid;
+    border-color: #00cc66;
+    border-radius: 5px;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-green-solid:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #00cc66;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #00cc66;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-green-solid:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #339966;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #339966;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+.btn-blue-solid{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #0066cc;
+    border-style: solid;
+    border-color: #0066cc;
+    border-radius: 5px;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-blue-solid:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #0066cc;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #0066cc;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-blue-solid:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #003399;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #003399;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+.btn-yellow-solid{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #ffcd22;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    color: #1a1a1a;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-yellow-solid:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-yellow-solid:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #ffcd22;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+
+
+.btn-dark-solid{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-dark-solid:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #1a1a1a;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #1a1a1a;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-dark-solid:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+.btn-purple-solid{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #99035e;
+    border-style: solid;
+    border-color: #99035e;
+    border-radius: 5px;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+.btn-purple-solid:hover{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #99035e;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #cecece;
+    color: #99035e;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+.btn-purple-solid:active{
+    padding: 2mm;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    color: #000;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+
+}
+
+
+/*END OF BUTTONS*/
+
+/*BEIGN TEXT*/
+
+html{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.card{
+    border-style: solid;
+    border-width: 1px;
+    min-width: fit-content;
+    max-width: 90%;
+    border-radius: 5px;
+    border-color: #cecece;
+    box-shadow: 3px 3px 10px #1a1a1a;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.card-header{
+    font-size: larger;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #1a1a1a;
+}
+
+.card-author{
+    font-size: smaller;
+    color: #bbbbbb;
+}
+
+.card-body{
+    font-size: medium;
+    padding-left: 15px;
+}
+
+p{
+    margin-top: 25px;
+}
